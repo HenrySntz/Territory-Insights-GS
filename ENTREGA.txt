@@ -1,0 +1,7 @@
+=== GLOBAL SOLUTION 2026.2 ===
+Disciplina: Cross-Platform Application Development
+Desafio: Territory Predictive Insights
+Integrante 1: Henry Lima | RM: 565309
+Integrante 2: Samuel Nunes | RM: 564435
+GitHub: https://github.com/HenrySntz/Territory-Insights-GS
+Video:  https://youtu.be/7g-u4wD57pQ

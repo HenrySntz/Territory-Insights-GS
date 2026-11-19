@@ -1,0 +1,33 @@
+# Flutter / Dart
+.dart_tool/
+.packages
+.pub-cache/
+.pub/
+build/
+.flutter-plugins
+.flutter-plugins-dependencies
+.flutter-plugins-dependencies
+
+# IDEs
+.idea/
+.vscode/
+*.iml
+
+# Chaves e credenciais (nunca versionar)
+.env
+*.jks
+*.keystore
+key.properties
+google-services.json
+
+# Android
+android/.gradle/
+android/local.properties
+android/app/debug
+android/app/profile
+android/app/release
+
+# iOS / macOS
+ios/Pods/
+**/Flutter/ephemeral/
+.DS_Store
