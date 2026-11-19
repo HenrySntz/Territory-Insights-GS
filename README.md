@@ -198,3 +198,34 @@ flutter build apk --release   # APK de release
 ![Configurações do Sistema](assets/screenshots/Configuracoes_Sistema.jpg)
 
 ![Privacidade e Aparência](assets/screenshots/Privacidade_e_Aparencia.jpg)
+
+
+## Testes e validação
+
+O projeto foi submetido a testes automatizados utilizando Flutter.
+
+### Testes automatizados
+
+Comando executado:
+
+`flutter test`
+
+Resultado: **10 testes aprovados.**
+
+### Análise estática
+
+Comando executado:
+
+`flutter analyze`
+
+Resultado: 20 informações relacionadas ao uso de APIs depreciadas do Flutter. Nenhum erro foi reportado na análise apresentada.
+
+### Testes funcionais manuais
+
+Foram realizados testes de:
+- Navegação entre telas;
+- Validação do formulário de ocorrências;
+- Cadastro de ocorrências;
+- Persistência dos registros após encerramento forçado;
+- Visualização dos alertas;
+- Funcionamento em modo offline.
